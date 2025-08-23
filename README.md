@@ -5,5 +5,5 @@ curl -fsSL https://raw.githubusercontent.com/chubbyhippo/sh/refs/heads/main/appe
 ```
 ## Prepend if not already present
 ```shell
-curl -fsSL https://raw.githubusercontent.com/chubbyhippo/sh/refs/heads/main/prepend.sh | /usr/bin/env sh -s -- arg1 arg2
+curl -fsSL https://raw.githubusercontent.com/chubbyhippo/sh/refs/heads/main/prepend.sh | /usr/bin/env sh -s -- 
 ```
